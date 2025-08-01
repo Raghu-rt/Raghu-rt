@@ -19,6 +19,44 @@
 - **MySQL** (SQL Queries, Data Aggregation)
 - **Python** (Pandas, Matplotlib, Data Analysis)
 
+## 🔧 Skills 
+
+- 📊 **Excel** – Pivot Tables, VLOOKUP/XLOOKUP, Power Query, dashboards
+- 📈 **Tableau** – Interactive dashboards, data storytelling, KPIs, filters & actions
+- 🛢️ **MySQL** – Data extraction, joins, subqueries, window functions
+- 🐍 **Python** – Pandas, NumPy, Matplotlib, Seaborn, data wrangling & visualization
+
+---
+
+
+## 📁 Projects
+
+Here are a few of my favorite data projects:
+
+### 📌 [Sales Dashboard in Excel](https://github.com/Raghu-rt/sales-dashboard-excel)
+- Built a dynamic sales dashboard using PivotTables, slicers, and formulas.
+- Tracked monthly sales performance and regional comparisons.
+
+### 📌 [Customer Segmentation in Python](https://github.com/Raghu-rt/customer-segmentation-python)
+- Applied clustering algorithms (K-Means) to segment customers.
+- Used Pandas and Seaborn for EDA and visual insights.
+
+### 📌 [Superstore Insights Tableau Dashboard](https://public.tableau.com/app/profile/Raghu-rt)
+- Analyzed sales, profit, and shipping trends.
+- Created interactive visuals for executive decision-making.
+
+### 📌 [SQL Queries for Retail Database](https://github.com/Raghu-rt/sql-retail-analysis)
+- Wrote complex SQL queries to analyze product performance and customer behavior.
+- Covered joins, aggregations, subqueries, and CTEs.
+
+---
+
+## 📚 Certifications
+
+- 📜 [Google Data Analytics Certificate (Coursera)](link)
+- 📜 [Tableau Desktop Specialist](link)
+- 📜 [Excel for Data Analytics (LinkedIn Learning)](link)
+
 ## 📂 Featured Projects
 
 ### 📊 **Retail Sales Dashboard**
@@ -45,4 +83,6 @@
 Let’s connect and talk about data insights!
 
 ![Visitor Count](https://profile-counter.glitch.me/raghavendratevari/count.svg)
+
+
 
